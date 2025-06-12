@@ -28,4 +28,4 @@ pypdfium2==4.30.1
 pypdf==4.2.0
 pdfminer.six==20240319
 pillow==10.3.0
-pywin32==306; sys_platform == 'win32
+pywin32==306; sys_platform == "win32"
